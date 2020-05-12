@@ -1,0 +1,11 @@
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\obj\HPD\Debug\netcoreapp2.2\ChangeMaker.csprojAssemblyReference.cache
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\obj\HPD\Debug\netcoreapp2.2\ChangeMaker.csproj.CoreCompileInputs.cache
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\obj\HPD\Debug\netcoreapp2.2\ChangeMaker.AssemblyInfoInputs.cache
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\obj\HPD\Debug\netcoreapp2.2\ChangeMaker.AssemblyInfo.cs
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.deps.json
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.runtimeconfig.json
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.runtimeconfig.dev.json
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.pdb
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\obj\HPD\Debug\netcoreapp2.2\ChangeMaker.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMaker\obj\HPD\Debug\netcoreapp2.2\ChangeMaker.pdb

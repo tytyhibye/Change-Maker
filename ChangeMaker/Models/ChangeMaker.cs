@@ -3,27 +3,27 @@ using System.Collections.Generic;
 
 namespace ChangeMaker.Models
 {
-  class ChangeMaker
+  public class ChangeBack
   {
-    public static decimal input { get; set; }
-    public static List<int> quarters = new List<int>{};
-    public static List<int> dimes = new List<int>{};
-    public static List<int> nickles = new List<int>{};
-    public static List<int> pennies = new List<int>{};
+    public static decimal Input { get; set; }
+    public static int Quarters { get;set; }
+    public static int Dimes { get; set; }
+    public static int Nickles { get; set; }
+    public static int Pennies { get; set; }
 
-    public static void GetInput(decimal input)
+    public static void GetInput(string input)
     {
       Input = decimal.Parse(input);
     }
 
     public static void ChangeIt(decimal input)
     {
-      int coinCount = input * 100;
-      for (int i = coinCount; i>0; i--)
+      decimal coinCount = input * 100;
+      for (decimal i = coinCount; i>0; i--)
       {
         if (i % 25 == 0)
         {
-          quarters.Add(i);
+          Quarters++;
         }
       }
     }
