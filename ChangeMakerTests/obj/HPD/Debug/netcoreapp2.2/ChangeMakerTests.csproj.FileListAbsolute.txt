@@ -1,0 +1,17 @@
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.csprojAssemblyReference.cache
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.csproj.CoreCompileInputs.cache
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.AssemblyInfoInputs.cache
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.AssemblyInfo.cs
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMakerTests.deps.json
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMakerTests.runtimeconfig.json
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMakerTests.runtimeconfig.dev.json
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMakerTests.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMakerTests.pdb
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\bin\HPD\Debug\netcoreapp2.2\ChangeMaker.pdb
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.csproj.CopyComplete
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.dll
+C:\Users\conno_000\Desktop\C#\ChangeMaker.Solution\ChangeMakerTests\obj\HPD\Debug\netcoreapp2.2\ChangeMakerTests.pdb

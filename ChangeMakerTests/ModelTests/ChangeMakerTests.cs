@@ -16,13 +16,13 @@ namespace ChangeMaker.TestTools
     public void UserInput_IsUserInputADecimal_True()
     {
       // Arrange
-      ChangeMaker testOne = new ChangeMaker();
+      ChangeBack testOne = new ChangeBack();
 
       // Act
-      ChangeMaker.GetInput("50");
+      ChangeBack.GetInput("50");
 
       // Assert
-      Assert.AreEqual(typeof(decimal), ChangeMaker.Input.GetType());
+      Assert.AreEqual(typeof(decimal), ChangeBack.Input.GetType());
     }
   }
 }
