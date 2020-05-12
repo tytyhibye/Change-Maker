@@ -8,25 +8,28 @@ namespace ChangeMaker.Models
     public static decimal Input { get; set; }
     public static int Quarters { get;set; }
     public static int Dimes { get; set; }
-    public static int Nickles { get; set; }
+    public static int Nickels { get; set; }
     public static int Pennies { get; set; }
 
     public static void GetInput(string input)
     {
       Input = decimal.Parse(input);
+      // ChangeIt(Input);
     }
 
-    public static void ChangeIt(decimal input)
+    public static void ChangeIt()
     {
-      decimal coinCount = input * 100;
-      for (decimal i = coinCount; i>0; i--)
-      {
-        if (i % 25 == 0)
-        {
-          Quarters++;
+      int coinCount = Convert.ToInt32(Input* 100);
+      Quarters = coinCount / 25;
+      int DimesMath = coinCount % 25;
+      Dimes = DimesMath / 10;
+      int NickelsMath = DimesMath % 10;
+      Nickels = NickelsMath / 5;
+      Pennies = NickelsMath % 5;
+         
         }
       }
     }
-  }
-}
+
+
    
